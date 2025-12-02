@@ -414,3 +414,4 @@ Odaberite opciju (1-4): 4
 - ✅ Percentage calculations
 - ✅ UTF-8 file encoding
 
+
